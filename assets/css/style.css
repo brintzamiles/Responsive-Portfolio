@@ -242,7 +242,7 @@ input[type=submit] {
     width: 100%;
   }
 
-  .auth-image{
+  .auth-image {
     width: 100%;  
     margin-bottom: 20px;
 
@@ -302,7 +302,15 @@ input[type=submit] {
     width: 100%;
   }
 
-  nav {
+ .work {
+    width: 100%;
+  }
+
+.auth-image {
+    width: 100%;
+  }
+
+   {
     text-align: center;
     width: 100%;
     margin: 15px 0;
